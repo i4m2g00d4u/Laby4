@@ -1,0 +1,18 @@
+{
+  "namespace": "jisatsu",
+  "displayName": "Jisatsu",
+  "description": "Hehehehaw",
+  "version": "0.0.1",
+  "author": "Just2g00d",
+  "requiredLabyModBuild": 1039,
+  "os": [],
+  "compatibleMinecraftVersions": "*",
+  "mainClass": "de.just2g00d.jisatsu.Jisatsu",
+  "meta": [],
+  "mavenDependencies": [],
+  "addonDependencies": [],
+  "incompatibles": [],
+  "entrypoints": {},
+  "earlyTransformers": [],
+  "transformers": []
+}
